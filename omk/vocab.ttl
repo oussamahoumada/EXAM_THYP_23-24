@@ -9,7 +9,7 @@
 @prefix ma: <http://www.w3.org/ns/ma-ont#>.
 
 <https://jeux_olympiques.univ-paris8.fr/onto/jxo#> a owl:Ontology ;
-    dcterms:title "Spam Detection" .
+    dcterms:title "Jeux Olympiques" .
 
 jxo:sportif a rdfs:Class ;
     rdfs:label "sportif" ;
