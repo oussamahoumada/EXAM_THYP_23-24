@@ -5,10 +5,10 @@
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix o: <http://omeka.org/s/vocabs/o#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix jxo: <https://jeux_olympiques.univ-paris8.fr/onto/jxo#> .
+@prefix jxo: <https://jeux-olympiques.univ-paris8.fr/onto/jxo#> .
 @prefix ma: <http://www.w3.org/ns/ma-ont#>.
 
-<https://jeux_olympiques.univ-paris8.fr/onto/jxo#> a owl:Ontology ;
+<https://jeux-olympiques.univ-paris8.fr/onto/jxo#> a owl:Ontology ;
     dcterms:title "Jeux Olympiques" .
 
 jxo:sportif a rdfs:Class ;
@@ -21,54 +21,52 @@ jxo:sport a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sport_sportif a rdfs:Class ;
+jxo:sportSportif a rdfs:Class ;
     rdfs:label "result" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sportif_name a rdf:Property ;
-    rdfs:label "sportif_name" ;
+jxo:name a rdf:Property ;
+    rdfs:label "sportifName" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sportif_age a rdf:Property ;
-    rdfs:label "sportif_age" ;
+jxo:age a rdf:Property ;
+    rdfs:label "sportifAge" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sportif_nationalite a rdf:Property ;
-    rdfs:label "sportif_nationalite" ;
+jxo:nationalite a rdf:Property ;
+    rdfs:label "sportifNationalite" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sport_libelle a rdf:Property ;
-    rdfs:label "sport_libelle" ;
+jxo:libelle a rdf:Property ;
+    rdfs:label "sportLibelle" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sport_max_participants a rdf:Property ;
+jxo:maxParticipants a rdf:Property ;
     rdfs:label "nombre max des participants" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:sport_ville a rdf:Property ;
+jxo:ville a rdf:Property ;
     rdfs:label "sport_ville" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:ss_score a rdf:Property ;
+jxo:score a rdf:Property ;
     rdfs:label "le score d'un sportif dans un sport" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:has_sport a rdf:Property ;
+jxo:hasSport a rdf:Property ;
     rdfs:label "A comme sport" ;
-    rdfs:comment "A comme sport"
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo:has_sportif a rdf:Property ;
+jxo:hasSportif a rdf:Property ;
     rdfs:label "A comme sportif" ;
-    rdfs:comment "A comme sportif"
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
