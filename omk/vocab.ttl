@@ -22,7 +22,7 @@ jxo:sport a rdfs:Class ;
     vs:term_status "experimental" .
 
 jxo:sportSportif a rdfs:Class ;
-    rdfs:label "result" ;
+    rdfs:label "sportSportif" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
@@ -47,7 +47,7 @@ jxo:libelle a rdf:Property ;
     vs:term_status "experimental" .
 
 jxo:maxParticipants a rdf:Property ;
-    rdfs:label "nombre max des participants" ;
+    rdfs:label "max_participants" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
@@ -57,7 +57,7 @@ jxo:ville a rdf:Property ;
     vs:term_status "experimental" .
 
 jxo:score a rdf:Property ;
-    rdfs:label "le score d'un sportif dans un sport" ;
+    rdfs:label "score" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
