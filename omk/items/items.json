@@ -1,0 +1,749 @@
+[
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/29",
+    "@type": ["o:Item", "jxo:sportif"],
+    "o:id": 29,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/159",
+      "o:id": 159
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/14",
+      "o:id": 14
+    },
+    "o:thumbnail": null,
+    "o:title": "sportif1",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:28:00+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:28:00+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "sportif1"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "sportif1"
+      }
+    ],
+    "jxo:name": [
+      {
+        "type": "literal",
+        "property_id": 341,
+        "property_label": "sportifName",
+        "is_public": true,
+        "@value": "sportif1"
+      }
+    ],
+    "jxo:age": [
+      {
+        "type": "literal",
+        "property_id": 342,
+        "property_label": "sportifAge",
+        "is_public": true,
+        "@value": "26"
+      }
+    ],
+    "jxo:nationalite": [
+      {
+        "type": "literal",
+        "property_id": 343,
+        "property_label": "sportifNationalite",
+        "is_public": true,
+        "@value": "France"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/30",
+    "@type": ["o:Item", "jxo:sportif"],
+    "o:id": 30,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/159",
+      "o:id": 159
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/14",
+      "o:id": 14
+    },
+    "o:thumbnail": null,
+    "o:title": "sportif2",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:28:34+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:28:34+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "sportif2"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "sportif2"
+      }
+    ],
+    "jxo:name": [
+      {
+        "type": "literal",
+        "property_id": 341,
+        "property_label": "sportifName",
+        "is_public": true,
+        "@value": "sportif2"
+      }
+    ],
+    "jxo:age": [
+      {
+        "type": "literal",
+        "property_id": 342,
+        "property_label": "sportifAge",
+        "is_public": true,
+        "@value": "24"
+      }
+    ],
+    "jxo:nationalite": [
+      {
+        "type": "literal",
+        "property_id": 343,
+        "property_label": "sportifNationalite",
+        "is_public": true,
+        "@value": "France"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/31",
+    "@type": ["o:Item", "jxo:sportif"],
+    "o:id": 31,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/159",
+      "o:id": 159
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/14",
+      "o:id": 14
+    },
+    "o:thumbnail": null,
+    "o:title": "sportif3",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:29:01+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:29:01+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "sportif3"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "sportif3"
+      }
+    ],
+    "jxo:name": [
+      {
+        "type": "literal",
+        "property_id": 341,
+        "property_label": "sportifName",
+        "is_public": true,
+        "@value": "sportif3"
+      }
+    ],
+    "jxo:age": [
+      {
+        "type": "literal",
+        "property_id": 342,
+        "property_label": "sportifAge",
+        "is_public": true,
+        "@value": "22"
+      }
+    ],
+    "jxo:nationalite": [
+      {
+        "type": "literal",
+        "property_id": 343,
+        "property_label": "sportifNationalite",
+        "is_public": true,
+        "@value": "Maroc"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/32",
+    "@type": ["o:Item", "jxo:sport"],
+    "o:id": 32,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/160",
+      "o:id": 160
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/13",
+      "o:id": 13
+    },
+    "o:thumbnail": null,
+    "o:title": "Sport1",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:31:25+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:31:25+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Sport1"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Sport1"
+      }
+    ],
+    "jxo:ville": [
+      {
+        "type": "literal",
+        "property_id": 346,
+        "property_label": "sport_ville",
+        "is_public": true,
+        "@value": "Lyon"
+      }
+    ],
+    "jxo:libelle": [
+      {
+        "type": "literal",
+        "property_id": 344,
+        "property_label": "sportLibelle",
+        "is_public": true,
+        "@value": "athl\u00e9tisme"
+      }
+    ],
+    "jxo:maxParticipants": [
+      {
+        "type": "literal",
+        "property_id": 345,
+        "property_label": "max_participants",
+        "is_public": true,
+        "@value": "60"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/33",
+    "@type": ["o:Item", "jxo:sport"],
+    "o:id": 33,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/160",
+      "o:id": 160
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/13",
+      "o:id": 13
+    },
+    "o:thumbnail": null,
+    "o:title": "sport2",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:32:29+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:32:29+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "sport2"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "sport2"
+      }
+    ],
+    "jxo:ville": [
+      {
+        "type": "literal",
+        "property_id": 346,
+        "property_label": "sport_ville",
+        "is_public": true,
+        "@value": "Paris"
+      }
+    ],
+    "jxo:libelle": [
+      {
+        "type": "literal",
+        "property_id": 344,
+        "property_label": "sportLibelle",
+        "is_public": true,
+        "@value": "Natation"
+      }
+    ],
+    "jxo:maxParticipants": [
+      {
+        "type": "literal",
+        "property_id": 345,
+        "property_label": "max_participants",
+        "is_public": true,
+        "@value": "25"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/34",
+    "@type": ["o:Item", "jxo:sportSportif"],
+    "o:id": 34,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/161",
+      "o:id": 161
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/15",
+      "o:id": 15
+    },
+    "o:thumbnail": null,
+    "o:title": "relation1",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:33:51+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:33:51+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "relation1"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "relation entre sport et sportif"
+      }
+    ],
+    "jxo:hasSport": [
+      {
+        "type": "literal",
+        "property_id": 348,
+        "property_label": "A comme sport",
+        "is_public": true,
+        "@value": "athletisme"
+      }
+    ],
+    "jxo:hasSportif": [
+      {
+        "type": "literal",
+        "property_id": 349,
+        "property_label": "A comme sportif",
+        "is_public": true,
+        "@value": "sportif1"
+      }
+    ],
+    "jxo:score": [
+      {
+        "type": "literal",
+        "property_id": 347,
+        "property_label": "score",
+        "is_public": true,
+        "@value": "40"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/35",
+    "@type": ["o:Item", "jxo:sportSportif"],
+    "o:id": 35,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/161",
+      "o:id": 161
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/15",
+      "o:id": 15
+    },
+    "o:thumbnail": null,
+    "o:title": "relation 2",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:34:33+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:34:33+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "relation 2"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "relation entre sport et sportif"
+      }
+    ],
+    "jxo:hasSport": [
+      {
+        "type": "literal",
+        "property_id": 348,
+        "property_label": "A comme sport",
+        "is_public": true,
+        "@value": "Natation"
+      }
+    ],
+    "jxo:hasSportif": [
+      {
+        "type": "literal",
+        "property_id": 349,
+        "property_label": "A comme sportif",
+        "is_public": true,
+        "@value": "sportif 2"
+      }
+    ],
+    "jxo:score": [
+      {
+        "type": "literal",
+        "property_id": 347,
+        "property_label": "score",
+        "is_public": true,
+        "@value": "60"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/36",
+    "@type": ["o:Item", "jxo:sportSportif"],
+    "o:id": 36,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/161",
+      "o:id": 161
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/15",
+      "o:id": 15
+    },
+    "o:thumbnail": null,
+    "o:title": "relation 3",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:35:35+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:35:35+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "relation 3"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "relation entre sport et sportif"
+      }
+    ],
+    "jxo:hasSport": [
+      {
+        "type": "literal",
+        "property_id": 348,
+        "property_label": "A comme sport",
+        "is_public": true,
+        "@value": "athletisme"
+      }
+    ],
+    "jxo:hasSportif": [
+      {
+        "type": "literal",
+        "property_id": 349,
+        "property_label": "A comme sportif",
+        "is_public": true,
+        "@value": "sportif3"
+      }
+    ],
+    "jxo:score": [
+      {
+        "type": "literal",
+        "property_id": 347,
+        "property_label": "score",
+        "is_public": true,
+        "@value": "50"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/Paris8/master2/omeka-s/api-context",
+    "@id": "http://localhost/Paris8/master2/omeka-s/api/items/37",
+    "@type": ["o:Item", "jxo:sportSportif"],
+    "o:id": 37,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_classes/161",
+      "o:id": 161
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/Paris8/master2/omeka-s/api/resource_templates/15",
+      "o:id": 15
+    },
+    "o:thumbnail": null,
+    "o:title": "relation 4",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2023-12-19T09:36:14+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2023-12-19T09:36:14+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:primary_media": null,
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "relation 4"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "relation entre sport et sportif"
+      }
+    ],
+    "jxo:hasSport": [
+      {
+        "type": "literal",
+        "property_id": 348,
+        "property_label": "A comme sport",
+        "is_public": true,
+        "@value": "Natation"
+      }
+    ],
+    "jxo:hasSportif": [
+      {
+        "type": "literal",
+        "property_id": 349,
+        "property_label": "A comme sportif",
+        "is_public": true,
+        "@value": "sportif1"
+      }
+    ],
+    "jxo:score": [
+      {
+        "type": "literal",
+        "property_id": 347,
+        "property_label": "score",
+        "is_public": true,
+        "@value": "70"
+      }
+    ]
+  }
+]

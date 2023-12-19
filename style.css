@@ -1,6 +1,10 @@
-h1{
-    background-color: orangered;
-    font-family: 'Courier New', Courier, monospace;
-    height: 100px;
+.card_items {
     text-align: center;
+}
+
+.card {
+    width: 250px;
+    height: 250px;
+    margin: 1%;
+    display: inline-block;
 }
