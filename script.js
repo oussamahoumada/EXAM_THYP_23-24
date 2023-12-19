@@ -1,7 +1,7 @@
 let AllItems;
 const url = "http://localhost/Paris8/master2/omeka-s/api/items";
-loadItems(url);
-function loadItems(url) {
+getData(url);
+function getData(url) {
   d3.json(url, (error, results) => {
     if (error) throw error;
     AllItems = results;
@@ -13,8 +13,8 @@ function doFiltre() {
   const text = document.getElementById("filter").value;
   if (text != "") {
     let new_data = AllItems.filter(function (d) {
-      const t = new String(d["o:title"]);
-      return t.includes(text);
+      const title = new String(d["o:title"]);
+      return title.includes(text);
     });
     showItems(new_data);
     return;
@@ -32,25 +32,14 @@ function showItems(data) {
     .enter()
     .append("div")
     .attr("class", "card");
-
-  let cardBody = cards.append("div").attr("class", "card-body");
-
-  cardBody
+  cards
+    .append("div")
+    .attr("class", "card-body")
     .append("h2")
     .text((d) => d["o:id"])
     .append("p")
     .text((d) => d["o:title"])
-    .append("h4")
-    .text((d) => {
-      if (d["jxo:hasSport"] != undefined)
-        return "sport : " + d["jxo:hasSport"][0]["@value"];
-    })
-    .append("h4")
-    .text((d) => {
-      if (d["jxo:hasSportif"] != undefined)
-        return "sportif : " + d["jxo:hasSportif"][0]["@value"];
-    })
-    .append("h4")
+    .append("p")
     .text((d) => {
       if (d["jxo:score"] != undefined)
         return "score : " + d["jxo:score"][0]["@value"];
