@@ -51,8 +51,8 @@ jxo:sport_max_participants a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-jxo: a rdf:Property ;
-    rdfs:label "" ;
+jxo:sport_ville a rdf:Property ;
+    rdfs:label "sport_ville" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
